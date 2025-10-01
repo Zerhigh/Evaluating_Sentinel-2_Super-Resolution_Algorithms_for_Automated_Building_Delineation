@@ -13,7 +13,7 @@ The following repositories are included:
 - ESAOpenSR: tbd
 - master_inference_superIX: https://github.com/Zerhigh/master_inference_superIX
 - master_inference_sen2sr: https://github.com/Zerhigh/master_s2_inference_sen2sr
-- tracasa_data_preparation: tbd
+- tracasa_data_preparation: https://github.com/Zerhigh/tracasa_data_preparation
 
 This repository is NOT designed to be a fully reproducible environment. Most results achieved with the presented repositories are published as independent data sources in the data repository (e.g. stratified datasets, super-resolved images, and building delineation metrics & results). Thus, this repository is aimed as a reference to the created code segments which were used to create these datasets. Refer to the individual repositories for detailed descriptions.
 
