@@ -29,15 +29,15 @@ The austridownloader package was developed to download and process Austrian orth
 
 ### austriadownloader_sampler
 
-The austriadownloader_sampler repository is used to create a uniform sampling grid across Austria, which is required as input for the austriadownlaoder package. This grid was constructed to reduce overlap between images and cover all the diverse landscapes of Austria.
+The austriadownloader_sampler repository is used to create a uniform sampling grid across Austria, which is required as input for the austriadownloader package. This grid was constructed to reduce overlap between images and cover all the diverse landscapes of Austria.
 
 ### cubexpress_austria
 
-The cubexpress_austria repository was forked from the CubeXpress package from Julio, which allows the download of Sentinel-2 images from GEE. This repository extends the original one by implementing additional methods for selecting and filtering Sentinel-2 images regarding their spectral correlation with the downloaded orthophoto dataset.
+The cubexpress_austria repository was forked from the CubeXpress package, which allows the download of Sentinel-2 images from GEE. This repository extends the original one by implementing additional methods for selecting and filtering Sentinel-2 images regarding their spectral correlation with the downloaded orthophoto dataset.
 
 ### dataset_preparation
 
-The dataset_preparation repository deals with dataset stratifaction for generating an evenly distributed dataset. A focus is put on removing images with NoData values and classifying images based on the amount of building present. This information is used to implement a uniform distribution of rural and urban images across the training, validation, and test datasets.   
+The dataset_preparation repository deals with dataset stratifaction for generating an evenly distributed dataset. A focus is put on removing images with NoData values and classifying images based on the amount of buildings present. This information is used to implement a uniform distribution of rural and urban images across the training, validation, and test datasets.   
 
 ### master_inference_superIX
 
