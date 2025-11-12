@@ -1,8 +1,8 @@
 # Evaluating_Sentinel-2_Super-Resolution_Algorithms_for_Automated_Building_Delineation
 
-This repository contains all references to code repositories and datasets used for my master thesis "Evaluating Sentinel-2 Super-Resolution Algorithms for Automated Building Delineation" at Technical University of Vienna.
+This repository contains all references to code repositories and datasets used for my master thesis "Evaluating Sentinel-2 Super-Resolution Algorithms for Automated Building Delineation" at Technical University of Vienna. The thesis can be downloaded from this repository under `thesis_hollendonner.pdf`. 
 
-All dataset involved in this repository are published here: *to be inserted research_data_TU*
+All dataset involved in this repository are published at researchdata.tuwien (DOI: https://doi.org/10.48436/vzxjz-q2h34, 550GB): https://researchdata.tuwien.ac.at/records/vzxjz-q2h34
 
 The following repositories are included:
 
